@@ -7,3 +7,4 @@
 - ### [getRange(row, column)](https://developers.google.com/apps-script/reference/spreadsheet/sheet#getRange(Integer,Integer))
 - ### [getValue()](https://developers.google.com/apps-script/reference/spreadsheet/range#getValue())
   ![image](https://user-images.githubusercontent.com/1501327/187836866-489b8cb0-9822-42d2-860d-fac784f01b60.png)
+- ### [createFile(name, content)](https://developers.google.com/apps-script/reference/drive/folder#createFile(String,String))
